@@ -14,5 +14,4 @@ I'm an Android Developer with a computer science background. I am interested in 
 
 ## Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/lohith7/](https://www.linkedin.com/in/sai-bharani-veerepalli-5b5252265/))
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/sai-bharani-veerepalli-5b5252265/])
