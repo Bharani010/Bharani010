@@ -1,7 +1,6 @@
 # Hi, I'm Sai Bharani Veerepalli 👋
 
-I'm an Android Developer with a computer science background. I am interested in anything to do with Kotlin!. Currently working on building public safety applications
-
+I'm an Android Developer with a computer science background. I am interested in anything to do with Kotlin!.
 ## Technologies & Tools
 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
